@@ -1,0 +1,7 @@
+# Only encrypted HTML is committed. Plaintext lives in /workspace/briefs/site-src (outside this repo).
+*.json
+*.jpg
+*.png
+*.b64
+img/
+.state/
